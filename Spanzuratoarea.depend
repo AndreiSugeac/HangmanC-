@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525857751 source:d:\code blocks\games\spanzuratoarea\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+
